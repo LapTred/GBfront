@@ -1,0 +1,19 @@
+.pacientes {
+  display: flex;  
+  height: 100vh;
+  .pacientesContainer {    
+    width: 85%;
+    .containers{   
+      align-items: center;     
+      background-color: #F9F9F9; //Need to Fix
+      height: 90%;
+      display: flex;
+      flex-direction: column;
+      
+    }    
+  }
+}
+  
+  
+  
+  
